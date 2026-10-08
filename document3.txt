@@ -110,6 +110,9 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
+333333333
 
 School is fk bad
+So tired 
+
 
