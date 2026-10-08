@@ -1,4 +1,4 @@
-컴퓨터공학과
+컴퓨터공학과 (Dept of CE)
 // C program for Merge Sort
 #include <stdio.h>
 #include <stdlib.h>
